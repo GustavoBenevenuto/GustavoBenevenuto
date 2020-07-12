@@ -1,16 +1,18 @@
-### Hi there 👋
+## Sobre mim 🙂
+Sou técnico em informática **com enfâse em programação** e atualmente faço Sistemas de Informação. O que me resume é a paixão por programar, é isso que me faz ter vontade e dedicação para sempre estar estudando e aprendendo, e o melhor de tudo é que me divirto fazendo isso.
 
-<!--
-**GustavoBenevenuto/GustavoBenevenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre meu GitHub 👨‍💻
+Olá pessoal, me chamo Gustavo e esse é meu *humilde* GitHub. Aqui tem desde repositórios de estudos até projetos mais sérios, fiquem a vontade para fuçar HAHA.
 
-Here are some ideas to get you started:
+## Principais Projetos 💎
+- [LarEspirita](https://github.com/GustavoBenevenuto/larespirita-mobile-javascript)
+  - Aplicação Web e Mobile que mostra onde há centros espirítas próximo ao usuário
+- [Clone Meu Universo](https://github.com/GustavoBenevenuto/Clone-Meu-Universo)
+  - Clone **(com melhorias)** das principais telas que utilizo no aplicativo da minha faculdade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais Techs 📊
+- Javascript
+- React Native
+- React JS 
+- Node JS
+- PHP
