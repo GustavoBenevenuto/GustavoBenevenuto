@@ -11,8 +11,4 @@ Olá pessoal, me chamo Gustavo e esse é meu *humilde* GitHub. Aqui tem desde re
   - Clone **(com melhorias)** das principais telas que utilizo no aplicativo da minha faculdade
 
 ## Principais Techs 📊
-- Javascript
-- React Native
-- React JS 
-- Node JS
-- PHP
+Javascript | React Native | React JS | Node JS | PHP
