@@ -5,6 +5,7 @@ Sou técnico em informática **com enfâse em programação** e atualmente faço
 Olá pessoal, me chamo Gustavo e esse é meu *humilde* GitHub. Aqui tem desde repositórios de estudos até projetos mais sérios, fiquem a vontade para fuçar HAHA.
 
 ## Principais Projetos 💎
+- [Vamuu](https://www.linkedin.com/posts/gustavo-benevenuto-3aa22791_reactnative-typescript-typeorm-activity-6702686117969313792-Uh-3) Aplicação mobile para conectar alunos que precisam de carona aos alunos que podem oferecer uma.   
 - [LarEspirita](https://github.com/GustavoBenevenuto/larespirita-mobile-javascript)
   - Aplicação Web e Mobile que mostra onde há centros espirítas próximo ao usuário
 - [Clone Meu Universo](https://github.com/GustavoBenevenuto/Clone-Meu-Universo)
