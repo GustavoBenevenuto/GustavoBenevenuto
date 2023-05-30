@@ -16,4 +16,4 @@ Olá pessoal, me chamo Gustavo e esse é meu *humilde* GitHub. Aqui tem desde re
 
 
 ## Principais Techs 📊
-Javascript | React Native | React JS | Node JS | Java
+Javascript | React Native | React JS | Node JS | Java | Spring Boot 
