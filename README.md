@@ -1,38 +1,37 @@
-## Sobre mim! 🙂
+## About Me! 🙂
 
-Olá! Eu sou Gustavo Benevenuto, um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em diversas tecnologias, estou focado em criar soluções incríveis e eficientes. Aqui está um pouco do que você pode esperar encontrar neste perfil:
+Hello! I am a software developer with over 5 years of experience, graduated in Information Systems from a Brazilian university. I developed a passion for programming at a very early age and I love continuously learning more about this universe.
 
-## Principais Techs 📊
-Javascript | Typescript | React Native | Node JS | TypeORM | Java | Spring Boot | Postgres | Oracle Developer
+## Main Techs 📊
+Javascript | Typescript | React Native | Node JS | TypeORM | Java | Spring Boot | Postgres | Oracle
 
+## Featured Projects
 
-## Projetos Destacados
+### NPM ultra-dev package
 
-### Pacote NPM ultra-dev
-
-- **Sobre:** O [ultra-dev](https://www.npmjs.com/package/ultra-dev) é um pacote NPM que tem como objetivo fornecer um conjunto de recursos para tarefas comuns de desenvolvimento.
+- **About:** [ultra-dev](https://www.npmjs.com/package/ultra-dev) is an NPM package that aims to provide a set of resources for common development tasks.
 
 - **Link:** https://www.npmjs.com/package/ultra-dev
 
-### Simula Drive
-- **Sobre:** O projeto Simula Drive é um aplicativo React Native que oferece questionários para a prova teórica do DETRAN.
+### Simulates Drive
+- **About:** The Simula Drive project is a React Native application that offers questionnaires for the DETRAN theoretical test.
 
-- **Detalhes:** Aplicação construída com React Native e com integrações a uma API de questões contruídas com NodeJS + TypeOrm
+- **Details:** Application built with React Native and with integrations to an API of issues built with NodeJS + TypeOrm
 
 - **Link:** https://play.google.com/store/apps/details?id=com.impetussimuladrive
 
-- *Observação: App desatualizado*
+- *Note: App outdated*
 
-### Simula-drive-api
+### Simulates drive-api
 
-- **Sobre:** A simula-drive-api é uma API Node.js que utilizei para fornecer perguntas e respostas ao aplicativo Simula Drive. Ela foi construída com TypeORM e Express. *Atualmente está fora do ar..*
+- **About:** The simula-drive-api is a Node.js API that I used to provide questions and answers to the Simula Drive application. It was built with TypeORM and Express. *Currently offline.. *
 
-- **Detalhes:** Aplicação construída com NodeJS, TypeOrm e Express
+- **Details:** Application built with NodeJS, TypeOrm and Express
 
-- *Observação: API fora de ar*
+- *Note: API out of the air*
 
-## Entre em Contato
+## Contact us
 
-Fique à vontade para entrar em contato comigo através do meu [e-mail](gustavo.benesilva@hotmail.com) ou me siga no [LinkedIn](https://www.linkedin.com/in/gustavo-benevenuto-3aa22791/) para colaborações ou qualquer outra dúvida.
+Feel free to contact me through my [email](gustavo.benesilva@hotmail.com) or follow me on [LinkedIn](https://www.linkedin.com/in/gustavo-benevenuto-3aa22791/) for collaborations or any other questions.
 
-Espero que encontre algo interessante aqui e fique à vontade para explorar meus repositórios. Obrigado por visitar meu perfil!
+I hope you find something interesting here and feel free to explore my repositories. Thank you for visiting my profile!
