@@ -13,16 +13,14 @@ Javascript | Typescript | React Native | Node JS | TypeORM | Java | Spring Boot 
 
 - **Link:** https://www.npmjs.com/package/ultra-dev
 
-### Simulates Drive
+### Simula Drive
 - **About:** The Simula Drive project is a React Native application that offers questionnaires for the DETRAN theoretical test.
 
 - **Details:** Application built with React Native and with integrations to an API of issues built with NodeJS + TypeOrm
 
-- **Link:** https://play.google.com/store/apps/details?id=com.impetussimuladrive
-
 - *Note: App outdated*
 
-### Simulates drive-api
+### Simula drive-api
 
 - **About:** The simula-drive-api is a Node.js API that I used to provide questions and answers to the Simula Drive application. It was built with TypeORM and Express. *Currently offline.. *
 
